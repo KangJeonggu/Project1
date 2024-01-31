@@ -26,5 +26,10 @@ print(num1, '-', num2, '=', res)
 res = mul_func(num1, num2)
 print(num1, '*', num2, '=', res)
 
+<<<<<<< Updated upstream
 res = div_func(num1, num2)
 print(num1, '/', num2, '=', res)
+=======
+res = pow_func(num1, num2)
+print(num1, '**', num2, '=', res)
+>>>>>>> Stashed changes
